@@ -7,7 +7,7 @@ Ayrıca Yardım Menüsü İle Beraber **Konu Öneri ve Destek Sunucusu** Komutu 
 Github Linkini Kopyalayıp Açacağınız Platform **(Glitch,Replit)**'da Açabilirsiniz. Hatasız Şekilde Çalışacaktır. VDS ve Visual Code Studio İle Uyumludur.
 
 # İletişim: 
-- 🔭 Destek Almak İçin [Tıkla](https://discord.com/invite/zgDVN4wyxM) ~ |  **`lytwest#0686** - **KlouqzSenpai#1453**
+- 🔭 Destek Almak İçin [Tıkla](https://discord.gg/VR9EtvrcXC) ~ |  **`lytwest#0686** - **KlouqzSenpai#1453**
 - 📫 **https://top.gg/bot/834768434574786561/invite** ~ | **Onaylı** Botumuzu Ekleyerek Destekte Bulunabilirsiniz.
 - 📌 GitHub Profillerimiz **https://Github.com/Lytwest** - **https://Github.com/KlouqzCreative**
 
