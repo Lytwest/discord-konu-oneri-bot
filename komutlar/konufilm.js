@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 exports.run = async (client, message, args) => {
-    let csgopng = ""
+    let west = ""
     var kasadancikanlar = [
 "**\<a:isiltilar:918137617059561513> Netflix'de Hangi Tür Filmleri Seyrediyorsun?** \n \n \<:acikyildiz:918137606666080306> Soru ID: **7XAB7CE**",
 "**\<a:isiltilar:918137617059561513> Hangi Platformlarda Film İzliyorsun?** \n \n \<:acikyildiz:918137606666080306> Soru ID: **8XAB7CE**",
