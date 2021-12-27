@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 exports.run = async (client, message, args) => {
     let west = ""
-    var kasadancikanlar = [
+    var konusecici = [
 "**\<a:isiltilar:918137617059561513> Netflix'de Hangi Tür Filmleri Seyrediyorsun?** \n \n \<:acikyildiz:918137606666080306> Soru ID: **7XAB7CE**",
 "**\<a:isiltilar:918137617059561513> Hangi Platformlarda Film İzliyorsun?** \n \n \<:acikyildiz:918137606666080306> Soru ID: **8XAB7CE**",
 "**\<a:isiltilar:918137617059561513> Sevmediğin Filmler Var mı?** \n \n \<:acikyildiz:918137606666080306> Soru ID: **9XAB7CE**",
@@ -29,11 +29,11 @@ exports.run = async (client, message, args) => {
 "**\<a:isiltilar:918137617059561513> Televizyonda Karşında Filmden Fazla Reklam mı Çıkıyor?** \n \n \<:acikyildiz:918137606666080306> Soru ID: **5A7XLX7E**",
 "**\<a:isiltilar:918137617059561513> Eğer Bir Yönetmen Olsaydın Hangi Tür Film Yapardın?** \n \n \<:acikyildiz:918137606666080306> Soru ID: **4A7XLX7E**",
     ]
-    var kasadancikanlar = kasadancikanlar[Math.floor(Math.random(1) * kasadancikanlar.length)]
+    var konusecici = konusecici[Math.floor(Math.random(1) * konusecici.length)]
     const embed  = new Discord.MessageEmbed()
-    .setDescription(`${kasadancikanlar}`)
+    .setDescription(`${konusecici}`)
 .setThumbnail(message.author.avatarURL())
-.setDescription(`${kasadancikanlar}`)
+.setDescription(`${konusecici}`)
 .setAuthor(`Film Kategorisi İçin Rastgele Yazı Aşağıda Verilmiştir;`)
     .setFooter("BETA | powered by Libertus ~ https://discord.gg/VR9EtvrcXC")
 .setColor('RANDOM');
