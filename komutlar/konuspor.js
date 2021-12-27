@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 exports.run = async (client, message, args) => {
-    let csgopng = ""
+    let west = ""
     var konusecici = [
 "**\<a:isiltilar:918137617059561513> Hangi Takımı Tutuyorsun?** \n \n \<:acikyildiz:918137606666080306> Soru ID: **7XAB7CE**",
 "**\<a:isiltilar:918137617059561513> Futbolcu Olsaydın Hangi Takımda Oynardın?** \n \n \<:acikyildiz:918137606666080306> Soru ID: **8XAB7CE**",
