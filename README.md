@@ -9,5 +9,7 @@ Github Linkini Kopyalayıp Açacağınız Platform **(Glitch,Replit)**'da Açabi
 # İletişim: 
 - 🔭 Destek Almak İçin [Tıkla](https://discord.gg/VR9EtvrcXC) ~ |  **`lytwest#0686** - **KlouqzSenpai#1453**
 - 📫 **https://top.gg/bot/834768434574786561/invite** ~ | **Onaylı** Botumuzu Ekleyerek Destekte Bulunabilirsiniz.
-- 📌 GitHub Profillerimiz **https://Github.com/Lytwest** - **https://Github.com/KlouqzCreative**
+- 📌 GitHub Profillerimiz **https://Github.com/Lytwest** - **https://lytwest.is-a.dev** - **https://Github.com/KlouqzCreative**
 
+# Ek Bilgi - Güncelleme;
+Bu Bot Lytwest Tarafından Kodlanmış Olup, Soru Ekleme Uğraşı İstediği İçin Github'a Yüklenmiştir. Bota Arada Güncelleme Yapma Kararı Alınmış Olup, Arada Dosyalar Güncellenecektir.Detaylı Bilgi İçin https://lytwest.is-a.dev Adresinden Bana Ulaşabilirsiniz.
