@@ -13,3 +13,6 @@ Github Linkini Kopyalayıp Açacağınız Platform **(Glitch,Replit)**'da Açabi
 
 # Ek Bilgi - Güncelleme;
 Bu Bot Lytwest Tarafından Kodlanmış Olup, Soru Ekleme Uğraşı İstediği İçin Github'a Yüklenmiştir. Bota Arada Güncelleme Yapma Kararı Alınmış Olup, Arada Dosyalar Güncellenecektir.Detaylı Bilgi İçin https://lytwest.is-a.dev Adresinden Bana Ulaşabilirsiniz.
+
+# 17.11.2022 Bilgilendirme;
+- Yakın Zamanda Discord.JS V14 ve Slash Desteği Verilecektir.
